@@ -6,8 +6,8 @@
 
  <a href="https://github.com/Hellenmf">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellenmf&show_icons=false&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellenmf&layout=compact&langs_count=7&theme=great-gatsby"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellenmf&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellenmf&layout=compact&langs_count=7&theme=moltack"/>
 
 
 <div style="display: inline_block"><br>
